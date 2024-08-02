@@ -250,7 +250,11 @@ h1 {
     color: #364f6b;
     width: 100%;
     line-height: 50px;
-    margin-left: 21rem;
+}
+
+.judul{
+    justify-items: center;
+    text-align: center;
 }
 
 #peta img {
@@ -495,24 +499,21 @@ h1 {
     #kis img {
         margin-left: 14rem;
     }
+    .footer{
+        justify-content: center;
+    }
     .footer-section{
+        
         margin: 0 2rem;
     }
     iframe {
-        width: 100%;
+        width: 130%;
         height: auto;
     }
 }
 
 @media screen and (max-width: 750px) {
     /* HALAMAN PROFIL DESA */
-    h1 {
-        font-family: 'Lato';
-        font-weight: 700;
-        font-size: 40px;
-        margin-left: 10rem;
-    }
-
     #peta img {
         width: 60%;
         margin-left: 9rem;
@@ -543,7 +544,7 @@ h1 {
         margin-left: 2rem;
     }
     .kartu-partner img{
-        margin-left: 5.5rem;
+        justify-content: center;
         margin-bottom: 1rem;
     }
 
@@ -621,7 +622,6 @@ h1 {
         font-family: 'Lato';
         font-weight: 700;
         font-size: 40px;
-        margin-left: 0rem;
     }
 
     #peta img {
@@ -669,7 +669,7 @@ h1 {
 
     /* HALAMAN ADMIN */
     #alurAdministrasi {
-        margin-left: 0rem;
+        margin-left: 1rem;
     }
 
     #syaratAdmin {
@@ -705,6 +705,16 @@ h1 {
     /* BAGIAN FOOTER */
     .wrapper {
         width: auto;
+    }
+    .partner-list{
+        margin-left: 0;
+        justify-content: center;
+    }
+    .partner-list img{
+        margin-left: 1.7rem;
+    }
+    .kartu-partner{
+        justify-content: center;
     }
 
     .footer {
