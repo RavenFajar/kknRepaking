@@ -364,10 +364,7 @@ h1 {
 }
 
 #alurAdministrasi {
-    max-width: 40rem;
-    width: 100%;
-    height: auto;
-    margin-left: 13rem;
+    margin-right: 3rem;
 }
 
 
@@ -669,37 +666,37 @@ h1 {
 
     /* HALAMAN ADMIN */
     #alurAdministrasi {
-        margin-left: 1rem;
+        margin-left: 0rem;
     }
 
     #syaratAdmin {
-        margin-left: 3rem;
+        margin-left: 1rem;
     }
 
     #kk img {
         width: 300px;
-        margin-left: 3rem;
+        margin-left: 1rem;
         line-height: 0;
     }
 
     #spmk img {
         width: 250px;
-        margin-left: 4.5rem;
+        margin-left: 2.5rem;
     }
 
     #aktaLahir img {
         width: 250px;
-        margin-left: 4.5rem;
+        margin-left: 2.5rem;
     }
 
     #dtks img {
         width: 250px;
-        margin-left: 4.5rem;
+        margin-left: 2.5rem;
     }
 
     #kis img {
         width: 300px;
-        margin-left: 3.3rem;
+        margin-left: 1.3rem;
     }
 
     /* BAGIAN FOOTER */
