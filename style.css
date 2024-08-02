@@ -630,28 +630,28 @@ h1 {
     }
 
     #pekerjaan img {
-        width: 375px;
-        margin-left: 0.5rem;
+        width: 85%;
+        margin-left: 1.5rem;
     }
 
     #luasWilayah img {
-        width: 375px;
-        margin-left: 0.5rem;
+        width: 85%;
+        margin-left: 1.5rem;
     }
 
     #kependudukan {
-        width: 375px;
-        margin-left: 0.5rem;
+        width: 85%;
+        margin-left: 1.5rem;
     }
 
     #piramidaPenduduk {
-        width: 375px;
-        margin-left: 0.5rem;
+        width: 85%;
+        margin-left: 1.5rem;
     }
 
     #fasilitas {
-        width: 375px;
-        margin-left: 1rem;
+        width: 85%;
+        margin-left: 1.5rem;
     }
 
 
@@ -711,7 +711,7 @@ h1 {
         justify-content: center;
     }
     .partner-list img{
-        margin-left: 1.7rem;
+        margin-left: 1.2rem;
     }
     .kartu-partner{
         justify-content: center;
